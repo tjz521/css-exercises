@@ -1,0 +1,20 @@
+.pinkbackground {
+
+    background-color: rgb(255,192,203)
+}
+
+.fontsizelarge {
+    font-size: 36px; 
+}
+
+#number4 {
+    background-color: rgb(1, 221, 1);
+    font: 24px;
+    font-weight: 700;
+}
+
+#number2 {
+    font-size: 24px;
+    color: blue;
+}
+
